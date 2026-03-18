@@ -1,7 +1,5 @@
 # Impact of power outages on the adoption of residential solar photovoltaic in a changing climate
 
-[![arXiv](https://img.shields.io/badge/arXiv-2512.05027-b31b1b.svg)](https://arxiv.org/abs/2512.05027)
-
 Spatio-temporal modeling of power outage events across substations using weather covariates and grid topology.
 The repository implements a full pipeline from data preprocessing to forecasting and visualization.
 
