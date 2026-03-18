@@ -111,7 +111,7 @@ Processing includes:
 
 ---
 
-## Data Splitting (Exact)
+## Data Splitting
 
 All splits are strictly chronological.
 
